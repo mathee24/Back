@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "env": "^0.0.2",
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
+  }
+}
